@@ -1,2 +1,2 @@
 # LZSC
-LZSC: Learn Ziglang in the Style of C
+LZSC: Learn Zig in the Style of C
