@@ -4,7 +4,7 @@
 
 Hello🙋! 最近整理完一部分自己学习C语言的笔记，准备更新Zig学习部分。
 
-C语言部分可以在 https://labspc.gitbook.io/cnippets/ 找到，关于指针的笔记还没有整理完。
+{% embed url="https://labspc.gitbook.io/cnippets/" %}
 
 ### 写在前头
 
@@ -28,6 +28,6 @@ C语言部分可以在 https://labspc.gitbook.io/cnippets/ 找到，关于指针
 
 ### 怎么去学？
 
-我会结合自己学习C语言的文档，还有Zig中文社区的 https://github.com/zigcc/zig-course ，真实记录我的学习历程（视频会发至B站）。
+{% embed url="https://github.com/zigcc/zig-course" %}
 
 **学东西是一个痛苦的过程，沉下来，找到对的方法，把时间堆上去，多思考，一定能学会。**
