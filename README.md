@@ -1,7 +1,7 @@
-# learn-zig-in-the-style-of-c
+# Learn Zig with C
 
 Hello🙋!
-这个repo的缩写为 `LZSC` (LZSC: Learn Zig in the Style of C)。
+最近整理完一部分自己学习C语言的笔记，准备更新Zig学习部分。 C语言部分可以在【 https://labspc.gitbook.io/cnippets/ 】找到。
 
 ## 写在前头
 
